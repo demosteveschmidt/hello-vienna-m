@@ -1,0 +1,4 @@
+README.txt
+hello-vienna/target/
+**/*.class
+**/*.jar
