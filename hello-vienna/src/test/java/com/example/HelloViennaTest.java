@@ -15,6 +15,6 @@ public class HelloViennaTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
